@@ -1,4 +1,4 @@
-This is a sample project to show basics of _Spring Framework_ . 
+This is a sample project to show the basics of _Spring Framework_ . 
 
 
 -> Checkout **'SpringXML'** branch to see how spring works with xml based configuration.  
